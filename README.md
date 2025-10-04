@@ -7,7 +7,7 @@
 
 **ROLL NO: 25001966**
 
-**DEPARTMENT: CSE**
+**DEPARTMENT: CSE & iot**
 
 ## Aim:
 
